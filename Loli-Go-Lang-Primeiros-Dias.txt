@@ -3,3 +3,5 @@ README Loli Go Lang Primeiros Dias.md
  - Loli Go Lang
  - Go Lang linguagem da programação.
  - 17:41 01/08/2022.
+ - Atualização: 
+ - 18:03 01/08/2022.
