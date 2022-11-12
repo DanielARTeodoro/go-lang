@@ -1,4 +1,4 @@
-package br.edu.ifms.sweet.exception;
+package br.edu.ifms.soma.exception;
 
 public class NoNumeroException extends RuntimeException{
 
