@@ -1,7 +1,7 @@
-package br.edu.ifms.sweet.exception.handler;
+package br.edu.ifms.soma.exception.handler;
 
-import br.edu.ifms.sweet.exception.ExceptionResponse;
-import br.edu.ifms.sweet.exception.NoNumeroException;
+import br.edu.ifms.soma.exception.ExceptionResponse;
+import br.edu.ifms.soma.exception.NoNumeroException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
