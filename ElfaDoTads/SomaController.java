@@ -1,6 +1,6 @@
-package br.edu.ifms.sweet.controller;
+package br.edu.ifms.soma.controller;
 
-import br.edu.ifms.sweet.exception.NoNumeroException;
+import br.edu.ifms.soma.exception.NoNumeroException;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
