@@ -1,4 +1,4 @@
-package br.edu.ifms.sweet.exception;
+package br.edu.ifms.soma.exception;
 
 import java.util.Date;
 
