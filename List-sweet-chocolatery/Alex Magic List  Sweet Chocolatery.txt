@@ -1,1 +1,3 @@
 Lista da Linguagem Go lang.
+Aula de Go lang do Professor Alex.
+Codinome para Para outros Projetos de Lion.
